@@ -1,0 +1,39 @@
+body {
+	margin: auto;
+	padding: 100px;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	
+
+}
+.header{
+	width: 100%;
+	overflow: hidden;
+
+}
+.container{
+	width: 600px;
+	margin: auto;
+}
+
+.logo {
+	width: 300px;
+	margin: auto;
+
+
+	
+}
+.barsearch{
+	width: 500px;
+	height: 40px;
+	margin: auto;
+	
+
+
+}
+.footer {
+text-align: center;
+padding: 180px;
+font-family: Monospace;
+
+}
